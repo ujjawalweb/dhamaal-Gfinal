@@ -1617,7 +1617,7 @@ h2{
     width: 100%;
     z-index: 9999;
 }
-.frame{margin-top:26px;}
+.frame{margin-top:26px !important;}
 
 
 				}
