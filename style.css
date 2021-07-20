@@ -1270,13 +1270,13 @@ h4{font-family: 700!important;color:rgb(192 186 147);}
 
 				@media only screen and (max-width:768px) {
 
-				.buy-btn{display:none;}
 				
-				.online {
-    position: relative;
-    top: -13px;
-    left: -68px;
+				
+				.online{position: relative;
+    top: 46px;
+    left: -115px;
 }
+
 		
 					.frame {
 						margin-top: 45px;
